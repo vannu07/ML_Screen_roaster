@@ -1,0 +1,19 @@
+# Screen Time Roast Analyzer - Requirements
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine learning libraries
+scikit-learn>=1.1.0
+
+# Optional: For enhanced visualizations
+plotly>=5.0.0
+
+# Optional: For Gemini API integration (when implementing real API calls)
+google-generativeai>=0.3.0
+
+# Optional: For Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
